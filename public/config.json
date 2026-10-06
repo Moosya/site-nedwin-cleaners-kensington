@@ -1,0 +1,27 @@
+{
+  "shopName": "Nedwin Cleaners",
+  "tagline": "Dry cleaning and laundry on Avenue F, Kensington",
+  "phone": "(718) 853-3596",
+  "address": "109 Avenue F, Brooklyn, NY 11218",
+  "hours": "Mon–Thu 8:30 AM – 6 PM · Fri 8:30 AM – 1 PM · Sun 10 AM – 3 PM · Closed Sat",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Professional dry cleaning for suits, dresses, and everyday garments."
+    },
+    {
+      "name": "Laundry & press",
+      "description": "Wash, dry, and press service when you need clothes back ready to wear."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by. Hours and turnaround by phone."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "nedwin-cleaners-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
